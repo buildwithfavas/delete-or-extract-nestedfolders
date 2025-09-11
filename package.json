@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "it": "^1.1.1"
+  },
+  "name": "deletefiles",
+  "version": "1.0.0",
+  "main": "delete.js",
+  "devDependencies": {
+    "coffee-script": "^1.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
