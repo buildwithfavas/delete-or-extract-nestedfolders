@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-// Files to delete (case-insensitive)
+// Files to delete (case-sensitive)
 const targets = ["IMPORTANT.txt", "README.txt", "README.url"];
 
 function deleteTargets(dir) {
