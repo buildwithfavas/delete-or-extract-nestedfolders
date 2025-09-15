@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const AdmZip = require("adm-zip");
 
-// Main folder path (change if needed)
+// Folder path (change if needed)
 const rootFolder = "D:\\Javascript Pro Mastering Advanced Concepts and Techniques(₹599)";
 
 function extractAndDeleteZips(dir) {
